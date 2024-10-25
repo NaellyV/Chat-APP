@@ -1,4 +1,4 @@
-# Chat App
+# SocketChat
 
 Um aplicativo de chat em tempo real construído com Node.js, Express, Socket.IO e CORS.
 
